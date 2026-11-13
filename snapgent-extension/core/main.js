@@ -95,6 +95,7 @@
     { name: "Ptero", url: "https://ptero.pro/" },
     { name: "Grok", url: "https://grok.com/" },
     { name: "Mistral", url: "https://chat.mistral.ai/code" },
+    { name: "Manus", url: "https://manus.im/app" },
   ];
   const TARGET_STORAGE_KEY = "zsSelectedMcpTarget";
   let selectedTargetId = "vscode";

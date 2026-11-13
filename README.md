@@ -121,6 +121,7 @@ npm run dist     # build the Windows installer into dist/
 | **Kimi** | `kimi.ai` | ✅ Supported | May use its native tools in some sessions |
 | **Grok** | `grok.com` | ✅ Supported | Requires signing in to xAI |
 | **Mistral (Vibe Code)** | `chat.mistral.ai` | 🧪 Experimental | Requires signing in to Mistral; selectors need testing on the live site |
+| **Manus** | `manus.im` | 🧪 Experimental | Requires signing in to Manus; selectors are generic guesses and need testing on the live site |
 | **GLM (Z.ai)** | `chat.z.ai` | ✅ Supported | |
 | **Qwen** | `chat.qwen.ai` | ✅ Supported | |
 | **Arena** | `arena.ai` | ✅ Supported | Use **Direct** mode |
